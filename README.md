@@ -12,3 +12,4 @@ Add a `simpleid` field to any fieldset:
 		type: simpleid
 
 ## Voilå!
+"Set it. And forget it." — Ron Popeil
