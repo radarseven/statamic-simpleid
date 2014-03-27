@@ -7,3 +7,5 @@ Add a `simpleid` field to any fieldset:
 	id:
 		hide: true
 		type: simpleid
+
+## Voilå!
