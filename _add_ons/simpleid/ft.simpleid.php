@@ -47,7 +47,7 @@ class Fieldtype_simpleid extends Fieldtype
 	private function get_simpleid()
 	{
 		/**
-		 * Borrowed this from the awesome Statmic guys!
+		 * Borrowed this from the awesome Statamic guys!
 		 * @statamic
 		 * @fredleblanc
 		 * @jackmcdade
